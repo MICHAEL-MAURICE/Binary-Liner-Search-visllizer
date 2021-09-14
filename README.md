@@ -1,3 +1,3 @@
 # Binary-Liner-Search-visllizer
 
-<br>Video :-<a href= "https://www.youtube.com/watch?v=T9lbdnlQUXU"> 
+<br><a href= "https://www.youtube.com/watch?v=T9lbdnlQUXU">VIDEO </a>
